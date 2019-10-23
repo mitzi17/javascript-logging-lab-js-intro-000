@@ -1,3 +1,5 @@
 console. error('HALP!')
 
-console.log('Wrong pin. Try again!!')
+console.log('Hello. Welcome!')
+
+console.warn('Wrong PIN. Try again!!')
